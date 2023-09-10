@@ -3,10 +3,6 @@
 
 <h2>IT Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prereqs and Install](https://github.com/btruong117/osticket-prereqs)
-  - [osTicket: Post-Install Configuration](https://github.com/btruong117/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/btruon117/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/btruong117/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/btruong117/azure-network-protocols)
@@ -16,11 +12,9 @@
   - [Administer Windows clients using Active Directory](https://github.com/btruong117/mock-environment-administration)
 - <b>Networking</b>
   - [Explore Networking concepts in mock environment using Packet Tracer](https://github.com/btruong117/packet-tracer-labs)
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Brian | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Brian | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-[instagram]: https://www.instagram.com/
-[linkedin]: www.linkedin.com/in/brian-truong-0b18251b8
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prereqs and Install](https://github.com/btruong117/osticket-prereqs)
+  - [osTicket: Post-Install Configuration](https://github.com/btruong117/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/btruon117/ticket-lifecycle)
+- <b>Jira Service Management</b>
+  - [Experimenting with Jira SD]
