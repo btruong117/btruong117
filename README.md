@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>Hello! I'm Brian an <a href = "www.linkedin.com/in/brian-truong-0b18251b8"> IT Professional </a></h1>
+<h1>I'm Brian an <a href = "www.linkedin.com/in/brian-truong-0b18251b8"> IT Professional </a></h1>
 <h2>IT Projects</h2>
 -<b>osTicket (Help Desk Ticketing System)</b>
 
