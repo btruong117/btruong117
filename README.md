@@ -17,4 +17,4 @@
   - [osTicket: Post-Install Configuration](https://github.com/btruong117/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/btruon117/ticket-lifecycle)
 - <b>Jira Service Management</b>
-  - [Experimenting with Jira SD]
+  - [Experimenting with Jira SM]
