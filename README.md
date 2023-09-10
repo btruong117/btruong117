@@ -13,7 +13,7 @@
 - <b>Networking</b>
   - [Explore Networking concepts in mock environment using Packet Tracer](https://github.com/btruong117/packet-tracer-labs)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prereqs and Install](https://github.com/btruong117/osticket-prereqs)
+  - [osTicket: Prereqs and Install](https://github.com/btruong117/osTicket-Prereq)
   - [osTicket: Post-Install Configuration](https://github.com/btruong117/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/btruon117/ticket-lifecycle)
 - <b>Jira Service Management</b>
