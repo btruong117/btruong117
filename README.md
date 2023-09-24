@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1>I'm Brian, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>I'm Brian, an <a href="www.linkedin.com/in/brian-truong-0b18251b8">IT Professional</a>☺</h1>
 
 <h2>IT Projects:</h2>
 
