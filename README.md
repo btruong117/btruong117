@@ -4,7 +4,7 @@
 <h2>IT Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/btruong117/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/btruong117/Azure-AD-Configuration)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/btruong117/azure-network-protocols)
   - [Implementing network shared folders and permissions](https://github.com/btruong117/azure-network-protocols)
 - <b>VMware</b>
