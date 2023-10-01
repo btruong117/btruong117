@@ -5,7 +5,7 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/btruong117/Azure-AD-Configuration)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/btruong117/azure-network-protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/btruong117/NSGs-and-Network-Protocols-in-Azure)
   - [Implementing network shared folders and permissions](https://github.com/btruong117/azure-network-protocols)
 - <b>VMware</b>
   - [Deploying VMware VMs on an internal network](https://github.com/btruong117/vmware-vms)
